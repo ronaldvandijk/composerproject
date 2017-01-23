@@ -1,5 +1,9 @@
 package composerproject;
 
+
+/**
+ * blaadaieeee
+ */
 public class DuckFactory extends AbstractDuckFactory {
 	public MallardDuck createMallardDuck(){
 		return new MallardDuck(new Quacker());
