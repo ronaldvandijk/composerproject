@@ -1,5 +1,8 @@
 package composerproject;
 
+/**
+* Some comments.....
+*/
 public class CountingDuckFactory extends AbstractDuckFactory {
 
 	@Override
